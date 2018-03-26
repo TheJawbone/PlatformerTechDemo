@@ -1,0 +1,5 @@
+Size	3									
+ID	Nazwa	CbSizeX	CbSizeY	TbSizeX	TbSizeY	MoveSpd	Activeness	Mobility	MaxHP	Exp
+1	Test1	20	30	30	40	1.0	0.5	150	50	5
+2	Test2	40	50	50	60	0.4	0.3	100	100	10
+3	Test3	15	20	20	25	1.6	0.01	200	20	2

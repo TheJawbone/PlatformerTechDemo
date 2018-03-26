@@ -1,0 +1,22 @@
+Name																								
+Location1																								
+																								
+SizeX	1600																							
+SizeY	1200																							
+EnemyLimit	20																							
+SpawnModifier	50																							
+																								
+NumberOfPlatforms	4																							
+Platform1	2	0	1100	1600	1100	4	0	1100	1600	1100	1600	1200	0	1200	1	0								
+Platform2	2	300	1000	500	1000	4	300	1000	500	1000	500	1050	300	1050	0.5	1								
+Platform3	4	600	1000	700	1000	800	950	900	950	6	600	1000	700	1000	800	950	900	950	900	1050	600	1050	0.5	1
+Platform4	4	1000	950	1100	950	1200	1000	1300	1000	6	1000	950	1100	950	1200	1000	1300	1000	1300	1050	1000	1050	0.5	1
+																								
+NumberOfLadders	2																							
+Ladder1	840	950	10	70	20	80																		
+Ladder2	1040	950	10	70	20	80																		
+																								
+NumberOfPortals	1																							
+Portal1	1500	1100	100	1100	Location2.txt																			
+																								
+NumberOfEnemies	3	1	2	3																				

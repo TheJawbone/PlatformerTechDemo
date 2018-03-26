@@ -1,0 +1,8 @@
+Size	6			
+ID	Name		Value	CbSize	TbSize	Texture		Type	EffectsCount	EffectsTypes&Values
+0	Crap		1	15 15	20 20	crap.png		misc
+1	PileOfCrap	2	20 20	30 30	crap.png		misc
+2	GlowaUli		-5	40 40	47 50	Ulahead.png	misc
+3	Indeks		100	30 15	40 20	indeks.png	misc
+4	HPPotion		20	20 20	30 30	potion.png	cons	1		0 5	
+5	Smile		10	20 20	30 30	smile.png	misc

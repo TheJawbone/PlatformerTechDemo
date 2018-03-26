@@ -1,0 +1,25 @@
+#pragma once
+
+#include <iostream>
+#include <typeinfo>
+#include <string>
+#include <sstream>
+#include <ctime>
+#include <cmath>
+#include <thread>
+#include <chrono>
+#include <cstdlib>
+#include <algorithm>
+#include <thread>
+#include <stdlib.h>
+#include <Windows.h>
+#include "Player.h"
+#include "Enemy.h"
+#include "EnemyDatabase.h"
+#include "ItemDatabase.h"
+#include "Location.h"
+#include "Platform.h"
+#include "GlobalParameters.h"
+#include "Money.h"
+#include "Consumables.h"
+#include "Window.h"

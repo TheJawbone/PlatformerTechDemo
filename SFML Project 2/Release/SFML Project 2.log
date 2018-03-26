@@ -1,0 +1,64 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (Release\) contains files shared from another project (SFML Project 2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Background.cpp
+  Consumables.cpp
+  Enemy.cpp
+Enemy.cpp(19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+Enemy.cpp(75): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  EnemyDatabase.cpp
+  GameObject.cpp
+  Item.cpp
+  ItemDatabase.cpp
+  Ladder.cpp
+Ladder.cpp(20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Location.cpp
+  main.cpp
+main.cpp(2): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  main.cpp(2): note: command-line arguments:  see previous definition of '_CRT_SECURE_NO_WARNINGS'
+main.cpp(31): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+main.cpp(40): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+main.cpp(48): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+main.cpp(100): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(101): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(102): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(141): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+main.cpp(152): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+main.cpp(163): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+main.cpp(165): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+main.cpp(352): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+main.cpp(353): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+main.cpp(354): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+main.cpp(355): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+main.cpp(555): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+main.cpp(624): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+main.cpp(652): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+main.cpp(674): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+main.cpp(676): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+main.cpp(950): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1028): warning C4018: '<': signed/unsigned mismatch
+main.cpp(1049): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+  Money.cpp
+  NPC.cpp
+  Platform.cpp
+  Player.cpp
+Player.cpp(28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Player.cpp(140): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+Player.cpp(142): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+Player.cpp(151): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+Player.cpp(153): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+Player.cpp(163): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+Player.cpp(165): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+Player.cpp(303): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  PlayerHUD.cpp
+PlayerHUD.cpp(41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+PlayerHUD.cpp(56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+PlayerHUD.cpp(75): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+PlayerHUD.cpp(97): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+PlayerHUD.cpp(98): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Portal.cpp
+  PhysicalGameObject.cpp
+  Projectile.cpp
+  Window.cpp
+  Generating code
+  All 1271 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  SFML Project 2.vcxproj -> C:\Users\Paweł\Documents\Visual Studio 2015\Projects\SFMLProject1\Release\SFML Project.exe

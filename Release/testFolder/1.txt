@@ -1,0 +1,25 @@
+1600 1200
+
+100 500
+
+4
+2   0 1100   1600 1100			4   0 1100   1600 1100   1600 1200   0 1200   1   0
+2   300 1000   500 1000			4   300 1000   500 1000   500 1050   300 1050   0.5   1
+4   600 1000   700 1000   800 950   900 950			6   600 1000   700 1000   800 950   900 950   900 1050   600 1050   0.5   1
+4	1000 950   1100 950   1200 1000   1300 1000			6	1000 950   1100 950   1200 1000   1300 1000   1300 1050   1000 1050   0.5   1
+
+1
+840 950   20 90
+
+1
+1500 1100 100 1100 2.txt
+
+//Platforms:
+amount of breakpoints, posX and Y of breakpoints, bool if platform can be jumped off
+
+//Line 1: map size X and Y, in pixels
+//Line 2: enemy limit and spawn modifier
+//Line 3: amount od platforms on the map
+//Line 4 - ...: platform posX, posY, width, height, spawn ratio, type, bool if platform can be jumped down of
+//Line after platform parameters: amount of portals
+//...-...: portal posX, posY, player posX, posY after moving to next location, name of text file with next map params

@@ -1,0 +1,54 @@
+﻿Build started 2017-05-16 01:39:17.
+     1>Project "C:\Users\Paweł\Documents\Visual Studio 2015\Projects\SFMLProject1\SFML Project 2\SFML Project 2.vcxproj" on node 2 (Build target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (SFML Project 2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /I"C:\Users\Paweł\Documents\SFML-2.4.1\include" /I"C:\Users\Paweł\Documents\Visual Studio 2015\Projects\SFMLProject1\SFML Project 2\sfeMovie-Debug-2.0.0-win32\include" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _CRT_SECURE_NO_WARNINGS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\paweł\documents\visual studio 2015\projects\sfmlproject1\sfml project 2\main.cpp(30): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+     1>c:\users\paweł\documents\visual studio 2015\projects\sfmlproject1\sfml project 2\main.cpp(39): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>c:\users\paweł\documents\visual studio 2015\projects\sfmlproject1\sfml project 2\main.cpp(47): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+     1>c:\users\paweł\documents\visual studio 2015\projects\sfmlproject1\sfml project 2\main.cpp(99): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+     1>c:\users\paweł\documents\visual studio 2015\projects\sfmlproject1\sfml project 2\main.cpp(100): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+     1>c:\users\paweł\documents\visual studio 2015\projects\sfmlproject1\sfml project 2\main.cpp(101): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+     1>c:\users\paweł\documents\visual studio 2015\projects\sfmlproject1\sfml project 2\main.cpp(140): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+     1>c:\users\paweł\documents\visual studio 2015\projects\sfmlproject1\sfml project 2\main.cpp(151): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+     1>c:\users\paweł\documents\visual studio 2015\projects\sfmlproject1\sfml project 2\main.cpp(162): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+     1>c:\users\paweł\documents\visual studio 2015\projects\sfmlproject1\sfml project 2\main.cpp(164): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+     1>c:\users\paweł\documents\visual studio 2015\projects\sfmlproject1\sfml project 2\main.cpp(351): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+     1>c:\users\paweł\documents\visual studio 2015\projects\sfmlproject1\sfml project 2\main.cpp(352): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+     1>c:\users\paweł\documents\visual studio 2015\projects\sfmlproject1\sfml project 2\main.cpp(353): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+     1>c:\users\paweł\documents\visual studio 2015\projects\sfmlproject1\sfml project 2\main.cpp(354): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+     1>c:\users\paweł\documents\visual studio 2015\projects\sfmlproject1\sfml project 2\main.cpp(554): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+     1>c:\users\paweł\documents\visual studio 2015\projects\sfmlproject1\sfml project 2\main.cpp(623): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\users\paweł\documents\visual studio 2015\projects\sfmlproject1\sfml project 2\main.cpp(651): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+     1>c:\users\paweł\documents\visual studio 2015\projects\sfmlproject1\sfml project 2\main.cpp(673): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>c:\users\paweł\documents\visual studio 2015\projects\sfmlproject1\sfml project 2\main.cpp(675): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>c:\users\paweł\documents\visual studio 2015\projects\sfmlproject1\sfml project 2\main.cpp(949): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+     1>c:\users\paweł\documents\visual studio 2015\projects\sfmlproject1\sfml project 2\main.cpp(1027): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\paweł\documents\visual studio 2015\projects\sfmlproject1\sfml project 2\main.cpp(1048): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Paweł\Documents\Visual Studio 2015\Projects\SFMLProject1\Debug\SFML Project.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Users\Paweł\Documents\SFML-2.4.1\lib" /LIBPATH:"C:\Users\Paweł\Documents\Visual Studio 2015\Projects\SFMLProject1\SFML Project 2\sfeMovie-Debug-2.0.0-win32\lib" "sfml-system-d.lib" "sfml-window-d.lib" "sfml-graphics-d.lib" "sfml-network-d.lib" "sfml-audio-d.lib" "sfeMovie-d.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\Paweł\Documents\Visual Studio 2015\Projects\SFMLProject1\Debug\SFML Project.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Paweł\Documents\Visual Studio 2015\Projects\SFMLProject1\Debug\SFML Project.lib" /MACHINE:X86 Debug\Background.obj
+         Debug\Consumables.obj
+         Debug\Enemy.obj
+         Debug\EnemyDatabase.obj
+         Debug\GameObject.obj
+         Debug\Item.obj
+         Debug\ItemDatabase.obj
+         Debug\Ladder.obj
+         Debug\Location.obj
+         Debug\main.obj
+         Debug\Money.obj
+         Debug\NPC.obj
+         Debug\Platform.obj
+         Debug\Player.obj
+         Debug\PlayerHUD.obj
+         Debug\Portal.obj
+         Debug\PhysicalGameObject.obj
+         Debug\Projectile.obj
+         Debug\Window.obj
+         SFML Project 2.vcxproj -> C:\Users\Paweł\Documents\Visual Studio 2015\Projects\SFMLProject1\Debug\SFML Project.exe
+     1>Done Building Project "C:\Users\Paweł\Documents\Visual Studio 2015\Projects\SFMLProject1\SFML Project 2\SFML Project 2.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.22
